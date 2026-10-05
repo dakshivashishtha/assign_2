@@ -1,0 +1,6 @@
+Campaign_ID,Campaign_Type,Target_Audience,Duration,Channel_Used,Impressions,Clicks,Leads,Conversions,Revenue,Acquisition_Cost,Language,Engagement_Score,Customer_Segment,Date
+NY-CMP-1000,Social Media,College Students,21,"WhatsApp, YouTube",57804,6156,3616,2355,1867515,111.03,Hindi,20.98,College Students,29-04-2025
+NY-CMP-1001,Paid Ads,Tier 2 City Customers,18,YouTube,91801,3321,1971,1357,1046247,180.83,Hindi,7.24,College Students,06-04-2025
+NY-CMP-1002,Influencer,Youth,23,"WhatsApp, Google, YouTube",15536,2182,952,755,197055,90.6,English,25.03,College Students,14-01-2025
+NY-CMP-1003,Email,Working Women,18,"YouTube, Facebook, Instagram",88114,8413,2231,947,376906,249.07,Hindi,13.15,College Students,04-06-2025
+NY-CMP-1004,Paid Ads,College Students,10,"Facebook, Instagram",96871,3743,2060,1258,518296,228.6,Hindi,7.29,Tier 2 City Customers,29-12-2024
